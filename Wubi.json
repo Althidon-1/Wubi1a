@@ -1,0 +1,35 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+                    "title1": "Welcome to Gil n Digs 3 Man 3x5x O.R.P",
+                    "text1": "1 Dont be a Dick.,2 If building in an artifact cave you must freely trade that artifact with another artifact, You can give them for free if you like.,3 Cheats get banned zero questions I just drop the ban hammer. Cheating requires proof of it happening clip it, record it and post it somewhere an admin can view.,4 Game is in Alpha Cough Cough. Things go missing. Dinos get stuck admin cant help you.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Link to Discord",
+                    "url": "https://discord.gg/BwvdM2zUPw"
+                }
+            }
+        ]
+    }
+}
